@@ -1,0 +1,6 @@
+@API.STEF.Presentation_HostAddress = http://localhost:5137
+
+GET {{API.STEF.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
